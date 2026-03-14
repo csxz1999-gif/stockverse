@@ -446,3 +446,4 @@ if __name__ == "__main__":
     print("  브라우저에서 http://localhost:5000 열기")
     print("=" * 45)
     app.run(debug=False, host="0.0.0.0", port=5000, threaded=True)
+dddosodos
